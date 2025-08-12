@@ -3,12 +3,12 @@
 <div align="center">
    
  <h2>Sobre mim</h2>
-    meu nome é Inacio Lopes. Estou atualmente cursando a faculdade de ciencias da computaçao e pretendo me especializar nas areas de Robotica e inteligencia artificial IA
+    Meu nome é Inácio Lopes. Estou atualmente cursando a faculdade de Ciencias da Computaçao e pretendo me especializar nas areas de Robotica e inteligencia artificial IA
 
    
   <h2>Linguagens e Ferramentas</h2>
 
-   ![Python](https://img.shields.io/badge/-Python%20Language-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp; ![vscode](https://img.shields.io/badge/-vscode-0D1117?style=for-the-badge&logo=oracle&labelColor=0D1117&textColor=0D1117)&nbsp;![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+   ![Python](https://img.shields.io/badge/-Python%20Language-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;![C Language](https://img.shields.io/badge/-C%20Language-0D1117?style=for-the-badge&logo=c&labelColor=0D1117&textColor=0D1117)&nbsp; ![vscode](https://img.shields.io/badge/-vscode-0D1117?style=for-the-badge&logo=oracle&labelColor=0D1117&textColor=0D1117)&nbsp;![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 
   <h2>Midias</h2>
 
