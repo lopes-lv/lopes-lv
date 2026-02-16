@@ -23,7 +23,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/inácio-lopes-b861602a7/)
 
 
-![GitHub 3D Contrib](profile-3d-contrib/profile-night-rainbow.svg)
+![Snake](https://raw.githubusercontent.com/lopes-lv/lopes-lv/output/github-snake-dark.svg)
+
 
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=0078d7&height=120&section=footer)
 
