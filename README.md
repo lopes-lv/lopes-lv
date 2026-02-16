@@ -1,26 +1,29 @@
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=0078d7&height=120&section=header)
 
-### Olá 👋 Seja bem vindo ao meu perfil
-<div align="center">
+### Olá, me chamo Inácio Lopes 
+<div>
    
  <h2>Sobre mim</h2>
-    Meu nome é Inácio Lopes. Estou atualmente cursando a faculdade de Ciencias da Computaçao e pretendo me especializar nas areas de Robotica e inteligencia artificial IA
+    Estou atualmente cursando a faculdade de Ciencias da Computaçao, estou estudando áreas como computação quantica, sistemas embarcados e redes de computadores 
 
    
   <h2>Linguagens e Ferramentas</h2>
 
-   ![Python](https://img.shields.io/badge/-Python%20Language-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;![C Language](https://img.shields.io/badge/-C%20Language-0D1117?style=for-the-badge&logo=c&labelColor=0D1117&textColor=0D1117)&nbsp; ![vscode](https://img.shields.io/badge/-vscode-0D1117?style=for-the-badge&logo=oracle&labelColor=0D1117&textColor=0D1117)&nbsp;![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+   ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+   ![QtSpim](https://img.shields.io/badge/QtSpim-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+ ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-  <h2>Midias</h2>
-
-   <a target="_blank" href="https://www.instagram.com/lopess_lv/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
-
+  ### 📧 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/inácio-lopes-b861602a7/)
 
 
-<h2>Status</h2>
+![GitHub 3D Contrib](profile-3d-contrib/profile-night-rainbow.svg)
 
-<img height="140em" width="320em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lopes-lv&icons=true&theme=algolia&include_all_commits=true&count_private=true"></img><img height="140em" width="320em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lopes-lv&layout=compact&langs_count=8&theme=algolia"></img>
-
-
-
-</div>
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=0078d7&height=120&section=footer)
 
